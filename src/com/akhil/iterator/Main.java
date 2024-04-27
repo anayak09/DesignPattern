@@ -9,7 +9,7 @@ public class Main {
         bh.push("b");
         bh.push("c");
 
-        List<String> Urls = bh.getUrls();
-        Urls.forEach(url -> System.out.println(url));
+        //List<String> Urls = bh.getUrls();
+        //Urls.forEach(url -> System.out.println(url));
     }
 }
